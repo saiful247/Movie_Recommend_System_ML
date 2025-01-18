@@ -1,3 +1,5 @@
 /dataset/tmdb_5000_credits.csv
 /dataset/tmdb_5000_movies.csv
 /cosine_similarity_tfidf.pkl
+
+/server/artifacts/cosine_similarity_tfidf.pkl
