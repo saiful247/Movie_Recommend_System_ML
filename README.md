@@ -23,5 +23,3 @@ The dataset was sourced from **Kaggle** and contains:
 - Keywords
 
 [Download the dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
-
-## 📂 Project Structure
